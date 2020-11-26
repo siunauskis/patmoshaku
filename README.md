@@ -1,2 +1,2 @@
 # patmosselain
-Patmos+ ohjelmien selaus toteutettuna järkevästi
+Patmos+ ohjelmien selaus toteutettuna paremmin
